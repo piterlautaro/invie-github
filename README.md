@@ -1,2 +1,4 @@
-# invie-github
-Curso Platzi :3
+# invie
+Las guitarras más locas
+
+https://pjimenez01.github.io/invie-github/
